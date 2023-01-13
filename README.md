@@ -38,6 +38,7 @@ I am François Dubois, a Back-end Developper Junior (specializing in Django and 
 
 <h2>Testing</2>
 
+
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 <h2>📫 How to reach me:</h2>
