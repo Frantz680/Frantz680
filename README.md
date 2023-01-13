@@ -3,7 +3,8 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Frantz680.Frantz680)](https://github.com/Frantz680)
 
-I am François Dubois, a Back-end Developper Junior (specializing in Django and Symfony).
+I am François Dubois, a Back-end Developper Junior (specializing in Django and Symfony). 
+Passionate about python language
 
 <h1>🛠️ Skills</h1>
 
@@ -36,8 +37,7 @@ I am François Dubois, a Back-end Developper Junior (specializing in Django and 
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-<h2>Testing</2>
-
+<h2>Testing</h2>
 
 ![pytest](https://img.shields.io/badge/Pytest-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
