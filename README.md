@@ -3,8 +3,9 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Frantz680.Frantz680)](https://github.com/Frantz680)
 
-I am François Dubois, a Back-end Developper Junior (specializing in Django and Symfony). 
-Passionate about python language
+I am François Dubois, a Back-end Developper Junior (specializing in Django and Symfony). 🚀
+<br>
+Passionate about python language. 🐍🥰
 
 <h1>🛠️ Skills</h1>
 
