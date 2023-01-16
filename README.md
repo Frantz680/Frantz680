@@ -7,7 +7,8 @@
 <br>
 <p>Passionate about python language. 🐍🥰</p>
 <br>
-<p>My portfolio is </p>
+<p>My portfolio is being developed on django and in production on VSP.</p>
+<p>It’s being improved. You can visit it here: http://45.132.242.27/</p>
 
 <h1>🛠️ Skills</h1>
 
