@@ -60,7 +60,7 @@
 
 <a href="mailto:dubois.francois68@hotmail.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/fran%C3%A7ois-dubois-543a0b177/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-![Frantz680 GitHub stats](https://github-readme-stats.vercel.app/api?username=Frantz680&show_icons=true&theme=radical)
+![Frantz680 GitHub stats](https://github-readme-stats.vercel.app/api?username=Frantz680&show_icons=true)
 
 <!--
 **Frantz680/Frantz680** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
