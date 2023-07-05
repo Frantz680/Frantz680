@@ -3,7 +3,7 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Frantz680.Frantz680)](https://github.com/Frantz680)
 
-<p>I am François Dubois, a Back-end Developper Junior (specializing in Django and Symfony). 🚀</p>
+<p>I am François Dubois, a Back-end Developper Junior (specializing in Django and .Net). 🚀</p>
 <br>
 <p>Passionate about python language. 🐍🥰</p>
 <br>
