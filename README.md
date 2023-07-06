@@ -61,7 +61,6 @@
 <a href="mailto:dubois.francois68@hotmail.com">![ConnectWith@laxmena.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/fran%C3%A7ois-dubois-543a0b177/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 [![Frantz680 GitHub stats](https://github-readme-stats.vercel.app/api?username=Frantz680&show_icons=true)](https://github.com/Frantz680/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frantz680&layout=compact)](https://github.com/Frantz680/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Frantz680&layout=compact)
 
