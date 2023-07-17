@@ -3,9 +3,9 @@
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Frantz680.Frantz680)](https://github.com/Frantz680)
 
-<p>I am François Dubois, a Back-end Developper Junior. 🚀</p>
+<p>François Dubois, Back-end Developer 🚀</p>
 <br>
-<p>I am a passionate computer developer, specialized in C#, .NET, and Python, Django with extensive Unity and microcontroller skills (Raspberry, arduino and ESP). 🐍🥰</p>
+<p>Passionate computer developer with expertise in C#, .NET, Python, and Django, complemented by strong skills in Unity and microcontrollers (Raspberry Pi, Arduino, ESP). 🐍🥰</p>
 <br>
 <p>My portfolio is being developed on django and in production on VSP.</p>
 <p>It’s being improved. You can visit it here: http://45.132.242.27/</p>
